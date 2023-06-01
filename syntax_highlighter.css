@@ -1,0 +1,10 @@
+.keyword { color: blue; }
+.identifier { color: pink; }
+.numeric_literal { color: cornflowerblue; }
+.string_literal { color: green; }
+.boolean_literal { color: red; }
+.none_literal { color: orange; }
+.operator { color: teal; }
+.delimiter { color: orangered; }
+.comment { color: greenyellow; font-style: italic; }
+.unknown { color: black; }
